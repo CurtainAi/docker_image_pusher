@@ -1,3 +1,5 @@
 alpine
 # gdy666/lucky
-containrrr/watchtower:latest
+# containrrr/watchtower:latest
+jxxghp/moviepilot-v2:latest
+
