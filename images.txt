@@ -1,5 +1,6 @@
 alpine
 # gdy666/lucky
 # containrrr/watchtower:latest
-jxxghp/moviepilot-v2:latest
+# jxxghp/moviepilot-v2:latest
+Jeric-X/SyncClipboard:latest
 
