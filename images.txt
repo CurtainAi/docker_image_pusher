@@ -1,7 +1,8 @@
 alpine
 # gdy666/lucky
 # containrrr/watchtower:latest
-# jxxghp/moviepilot-v2:latest
+jxxghp/moviepilot-v2:latest
 # jericx/syncclipboard-server:latest
-wallabag/wallabag:latest
+# wallabag/wallabag:latest
+
 
