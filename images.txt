@@ -4,5 +4,6 @@ alpine
 # jxxghp/moviepilot-v2:latest
 # jericx/syncclipboard-server:latest
 # wallabag/wallabag:latest
-teddysun/shadowsocks-libev:latest
+# teddysun/shadowsocks-libev:latest
+tailscale/tailscale:latest
 
