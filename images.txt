@@ -5,5 +5,6 @@ alpine
 # jericx/syncclipboard-server:latest
 # wallabag/wallabag:latest
 # teddysun/shadowsocks-libev:latest
-tailscale/tailscale:latest
+# tailscale/tailscale:latest
+# dreamacro/clash:latest
 
