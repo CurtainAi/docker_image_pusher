@@ -7,4 +7,5 @@ alpine
 # teddysun/shadowsocks-libev:latest
 # tailscale/tailscale:latest
 # dreamacro/clash:latest
-haishanh/yacd:latest
+# haishanh/yacd:latest
+stashapp/stash:latest
