@@ -10,4 +10,5 @@ alpine
 # haishanh/yacd:latest
 # stashapp/stash:latest
 # linuxserver/lidarr:latest
-ggerganov/whisper.cpp:latest
+# ggerganov/whisper.cpp:latest
+jrottenberg/ffmpeg
