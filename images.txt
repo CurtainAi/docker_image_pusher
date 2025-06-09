@@ -9,4 +9,5 @@ alpine
 # dreamacro/clash:latest
 # haishanh/yacd:latest
 # stashapp/stash:latest
-linuxserver/lidarr:latest
+# linuxserver/lidarr:latest
+ggerganov/whisper.cpp:latest
