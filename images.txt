@@ -14,4 +14,6 @@ alpine
 # jrottenberg/ffmpeg
 # nocodb/nocodb:latest
 # linuxserver/qbittorrent:4.6.2
-mtphotos/mt-photos:latest
+# mtphotos/mt-photos:latest
+mtphotos/mt-photos-ai:latest
+devfox101/mt-photos-insightface-unofficial:latest
