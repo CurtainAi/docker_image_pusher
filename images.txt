@@ -13,5 +13,6 @@ alpine
 # ggerganov/whisper.cpp:latest
 # jrottenberg/ffmpeg
 # nocodb/nocodb:latest
+# linuxserver/qbittorrent:4.6.2
 
-linuxserver/qbittorrent:4.6.2
+linuxserver/transmission:4.0.5
