@@ -14,5 +14,4 @@ alpine
 # jrottenberg/ffmpeg
 # nocodb/nocodb:latest
 # linuxserver/qbittorrent:4.6.2
-
-linuxserver/transmission:4.0.5
+mtphotos/mt-photos:latest
