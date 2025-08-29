@@ -12,4 +12,6 @@ alpine
 # linuxserver/lidarr:latest
 # ggerganov/whisper.cpp:latest
 # jrottenberg/ffmpeg
-nocodb/nocodb:latest
+# nocodb/nocodb:latest
+
+linuxserver/qbittorrent:4.6.2
