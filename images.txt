@@ -18,5 +18,6 @@ alpine
 # mtphotos/mt-photos-ai:latest
 # devfox101/mt-photos-insightface-unofficial:latest
 # iyuucn/iyuuplus
+# jxxghp/moviepilot-v2:latest
 
-jxxghp/moviepilot-v2:latest
+vaultwarden/server:latest
