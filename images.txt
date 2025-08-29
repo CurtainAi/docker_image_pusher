@@ -17,5 +17,6 @@ alpine
 # mtphotos/mt-photos:latest
 # mtphotos/mt-photos-ai:latest
 # devfox101/mt-photos-insightface-unofficial:latest
+# iyuucn/iyuuplus
 
-iyuucn/iyuuplus
+jxxghp/moviepilot-v2:latest
