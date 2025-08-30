@@ -20,5 +20,6 @@ alpine
 # iyuucn/iyuuplus
 # jxxghp/moviepilot-v2:latest
 # vaultwarden/server:latest
+# tailscale/tailscale:latest
 
-tailscale/tailscale:latest
+qdtoday/qd:latest
