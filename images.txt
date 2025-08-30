@@ -8,7 +8,7 @@ alpine
 # tailscale/tailscale:latest
 # dreamacro/clash:latest
 # haishanh/yacd:latest
-stashapp/stash:latest
+# stashapp/stash:latest
 # linuxserver/lidarr:latest
 # ggerganov/whisper.cpp:latest
 # jrottenberg/ffmpeg
@@ -22,3 +22,5 @@ stashapp/stash:latest
 # vaultwarden/server:latest
 # tailscale/tailscale:latest
 # qdtoday/qd:latest
+
+bililive-go/bililive-go
