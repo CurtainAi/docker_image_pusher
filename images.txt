@@ -23,4 +23,4 @@ alpine
 # tailscale/tailscale:latest
 # qdtoday/qd:latest
 
-bililive-go/bililive-go
+bililive-go/bililive-go:latest
