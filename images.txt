@@ -22,5 +22,6 @@ alpine
 # vaultwarden/server:latest
 # tailscale/tailscale:latest
 # qdtoday/qd:latest
+# chigusa/bililive-go:latest
 
-chigusa/bililive-go:latest
+deluan/navidrome:latest
