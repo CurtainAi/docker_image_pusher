@@ -23,5 +23,8 @@ alpine
 # tailscale/tailscale:latest
 # qdtoday/qd:latest
 # chigusa/bililive-go:latest
+# deluan/navidrome:latest
 
-deluan/navidrome:latest
+easychen/cookiecloud:latest
+
+
