@@ -24,7 +24,8 @@ alpine
 # qdtoday/qd:latest
 # chigusa/bililive-go:latest
 # deluan/navidrome:latest
+# easychen/cookiecloud:latest
 
-easychen/cookiecloud:latest
+qdtoday/qd:20240208
 
 
