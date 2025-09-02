@@ -25,7 +25,7 @@ alpine
 # chigusa/bililive-go:latest
 # deluan/navidrome:latest
 # easychen/cookiecloud:latest
-
-qdtoday/qd:20240208
+# qdtoday/qd:20240208
+Reseed-Puppy/Reseed-Puppy
 
 
