@@ -26,6 +26,6 @@ alpine
 # deluan/navidrome:latest
 # easychen/cookiecloud:latest
 # qdtoday/qd:20240208
-Reseed-Puppy/Reseed-Puppy
+Reseed-Puppy/Reseed-Puppy:latest
 
 
