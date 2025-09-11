@@ -27,6 +27,7 @@ alpine
 # easychen/cookiecloud:latest
 # qdtoday/qd:20240208
 # Reseed-Puppy/Reseed-Puppy:latest
-szzhoubanxian/reseed-puppy:latest
+# szzhoubanxian/reseed-puppy:latest
+iyuucn/iyuuplus
 
 
