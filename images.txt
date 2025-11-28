@@ -29,6 +29,7 @@ alpine
 # Reseed-Puppy/Reseed-Puppy:latest
 # szzhoubanxian/reseed-puppy:latest
 # iyuucn/iyuuplus
-mysql:8.0
+# mysql:8.0
+tailscale/tailscale:latest
 
 
