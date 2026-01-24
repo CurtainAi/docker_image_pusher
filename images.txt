@@ -31,6 +31,6 @@ alpine
 # iyuucn/iyuuplus
 # mysql:8.0
 # tailscale/tailscale:latest
-rustdesk/rustdesk-server
+# rustdesk/rustdesk-server
 
-
+hipcityreg/situation-monitor:latest
