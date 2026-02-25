@@ -33,5 +33,6 @@
 # tailscale/tailscale:latest
 # rustdesk/rustdesk-server
 # hipcityreg/situation-monitor:latest
+# gitea/gitea:latest
 
-gitea/gitea:latest
+docmirror/fastgithub:latest
