@@ -36,5 +36,8 @@
 # gitea/gitea:latest
 # docmirror/fastgithub:latest
 # docmirror/dev-sidecar:latest
+# ghcr.io/open-webui/open-webui:main
 
-ghcr.io/open-webui/open-webui:main
+quantumnous/new-api:latest
+
+
