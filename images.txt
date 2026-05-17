@@ -40,5 +40,5 @@
 # quantumnous/new-api:latest
 # ghcr.io/quantumnous/new-api:latest
 # qeeqbox/social-analyzer:latest
-dadoum/anisette-server:latest
-
+# dadoum/anisette-server:latest
+dadoum/anisette-server:pyanisette
