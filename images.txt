@@ -39,6 +39,6 @@
 # ghcr.io/open-webui/open-webui:main
 # quantumnous/new-api:latest
 # ghcr.io/quantumnous/new-api:latest
-
-qeeqbox/social-analyzer:latest
+# qeeqbox/social-analyzer:latest
+dadoum/anisette-server:latest
 
