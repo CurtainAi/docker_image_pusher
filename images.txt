@@ -42,4 +42,5 @@
 # qeeqbox/social-analyzer:latest
 # dadoum/anisette-server:latest
 # dadoum/anisette-server:pyanisette
-dadoum/anisette-server:py
+# dadoum/anisette-server:py
+lybxlpsv/anisette-v3-server:latest
